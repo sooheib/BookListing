@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Book Listing</string>
+    <string name="edit_search">Enter a search term</string>
+    <string name="button_search">Search</string>
+    <string name="search_activity_placeholder">Placeholder text</string>
+    <string name="no_data">No Data</string>
+</resources>
